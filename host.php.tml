@@ -1,0 +1,6 @@
+<?php
+
+// Any site config options goes here
+const PRJ_ROOT = __DIR__ . '/';
+
+const PRJ_ENV = 'test';
