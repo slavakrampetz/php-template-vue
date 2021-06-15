@@ -1,0 +1,7 @@
+/.idea/
+
+## App temp
+/var/*.log
+
+/host.php
+
